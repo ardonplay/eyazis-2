@@ -1,0 +1,7 @@
+langdetect==1.0.9
+ollama==0.4.2
+pdfminer==20191125
+pymorphy2==0.9.1
+pymorphy3==2.0.2
+torch==2.5.1
+transformers==4.46.3
